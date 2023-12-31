@@ -98,3 +98,6 @@
 </div>
 
 ###
+<h1 align="left">👀 Looking for Internships</h1>
+
+###
