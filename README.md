@@ -33,8 +33,6 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
   <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="44" alt="amazonwebservices logo"  />
-  <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="44" alt="apache logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" alt="c logo"  />
