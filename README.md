@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👀 I am currently in my final year of engineering majoring in computer science<br>📫 reach me at -->$ praneeth.p101@gmail.com</p>
+<p align="left">📫 reach me at -->$ praneeth.p101@gmail.com</p>
 
 ###
 
